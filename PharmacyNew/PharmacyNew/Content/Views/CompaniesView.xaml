@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="PharmacyNew.Content.Views.CompaniesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PharmacyNew.Content.Views"
+              xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <telerik:RadGridView Name="customersGrid" GroupRenderMode="Flat"
+						
+                             ShowGroupFooters="False"
+                             ScrollViewer.VerticalScrollBarVisibility="Visible"
+                             ScrollViewer.HorizontalScrollBarVisibility="Visible"
+							 AutoGenerateColumns="False"
+                             ItemsSource="{Binding Companies}"
+                             ShowGroupPanel="False"
+							 IsReadOnly="True"
+                             CanUserDeleteRows="True"
+                             RowHeight="5"
+                             CanUserSelect="False"
+                            
+							 RowIndicatorVisibility="Collapsed"
+							 CanUserFreezeColumns="False"
+							 CanUserResizeColumns="False">
+            <telerik:RadGridView.Columns >
+
+                <telerik:GridViewDataColumn  HeaderTextAlignment="Center" IsFilterable="True"
+                                    TextAlignment="Center" IsSortable="True" Width="40">
+                    <telerik:GridViewDataColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding isTableChecked,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center" />
+
+                            </StackPanel>
+                        </DataTemplate>
+                    </telerik:GridViewDataColumn.CellTemplate>
+                </telerik:GridViewDataColumn>
+                <telerik:GridViewDataColumn Header="الرقم المتسلسل" HeaderTextAlignment="Center"  IsFilterable="True"
+TextAlignment="Center"	DataMemberBinding="{Binding Id}"  IsSortable="True"  />
+
+                <telerik:GridViewDataColumn Header="اسم السركة" HeaderTextAlignment="Center"  IsFilterable="True"
+TextAlignment="Center"	DataMemberBinding="{Binding ComapanyName}"  IsSortable="True"  />
+
+
+                <telerik:GridViewDataColumn Header="الاجراء" HeaderTextAlignment="Center" IsFilterable="True" Width="120">
+                    <telerik:GridViewColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Command="{Binding DataContext.UpdatePostionCommand, RelativeSource={RelativeSource AncestorType={x:Type telerik:RadGridView}}}"
+ ToolTip="Modify"   CommandParameter="{Binding Id}"  >
+                                    <Image Source="/Trade-1;component/images/pencil.png" Width="12"/>
+                                </Button>
+                                <Button Command="{Binding DataContext.ClosePosition, RelativeSource={RelativeSource AncestorType={x:Type telerik:RadGridView}}}"
+                            CommandParameter="{Binding Id}" 
+ToolTip="Close">
+                                    <Image Source="/Trade-1;component/images/cancel.png" Width="12"/>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </telerik:GridViewColumn.CellTemplate>
+                </telerik:GridViewDataColumn>
+
+
+
+
+
+                <!--<telerik:RadGridView.GroupDescriptors>
+                <telerik:ColumnGroupDescriptor Column="{Binding Columns[\bid\],ElementName=customersGrid}"
+											   SortDirection="Ascending" />
+            </telerik:RadGridView.GroupDescriptors>-->
+            </telerik:RadGridView.Columns>
+
+        </telerik:RadGridView>
+    </Grid>
+</UserControl>

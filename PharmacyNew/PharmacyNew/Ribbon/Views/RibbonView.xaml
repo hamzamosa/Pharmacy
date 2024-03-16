@@ -1,0 +1,97 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PharmacyNew.Ribbon.Views"
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="PharmacyNew.Ribbon.Views.RibbonView"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" FlowDirection="RightToLeft">
+    <Grid>
+       
+        <telerik:RadRibbonView>
+            <telerik:RadRibbonTab Header="ملف" >
+
+                <telerik:RadRibbonGroup Header="شركات الادوية">
+
+                    <telerik:RadRibbonGroup.Variants>
+                        <telerik:GroupVariant Priority="13" Variant="Medium" />
+                        <telerik:GroupVariant Priority="8" Variant="Small" />
+                        <telerik:GroupVariant Priority="3" Variant="Collapsed" />
+                    </telerik:RadRibbonGroup.Variants>
+                    <telerik:RadCollapsiblePanel>
+                        <telerik:RadRibbonButton  Text="تسجيل الدخول" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding OpenLoginScreenCommand}"  />
+                       
+                        <telerik:RadRibbonButton  Text="اضافة/تعديل" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"  IsEnabled="{Binding isEnable}" Command="{Binding AddCompanyCommand}"  />
+
+                    </telerik:RadCollapsiblePanel>
+                </telerik:RadRibbonGroup>
+
+                <telerik:RadRibbonGroup Header="Trade">
+
+                    <telerik:RadRibbonGroup.Variants>
+                        <telerik:GroupVariant Priority="13" Variant="Medium" />
+                        <telerik:GroupVariant Priority="8" Variant="Small" />
+                        <telerik:GroupVariant Priority="3" Variant="Collapsed" />
+                    </telerik:RadRibbonGroup.Variants>
+                    <telerik:RadCollapsiblePanel>
+                        <telerik:RadRibbonButton  Text="شركات الادوية" Size="Large"
+                                                     CollapseToSmall="WhenGroupIsSmall" 
+                       LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="الموردين" Size="Large"
+                               CollapseToSmall="WhenGroupIsSmall" 
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="التصنيفات" Size="Large"
+                               CollapseToSmall="WhenGroupIsSmall" 
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="فاتورة المبعات" Size="Large"
+                               CollapseToSmall="WhenGroupIsSmall" 
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="فاتورة المشتريات" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="مخزن الادوية" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+
+
+
+
+                    </telerik:RadCollapsiblePanel>
+                </telerik:RadRibbonGroup>
+
+                <telerik:RadRibbonGroup Header="شركات الادوية">
+
+                    <telerik:RadRibbonGroup.Variants>
+                        <telerik:GroupVariant Priority="13" Variant="Medium" />
+                        <telerik:GroupVariant Priority="8" Variant="Small" />
+                        <telerik:GroupVariant Priority="3" Variant="Collapsed" />
+                    </telerik:RadRibbonGroup.Variants>
+                    <telerik:RadCollapsiblePanel>
+                        <telerik:RadRibbonButton  Text="حسابات العملاء" Size="Large"
+                               CollapseToSmall="WhenGroupIsSmall" 
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="الاعدادت" Size="Large"
+                                                     CollapseToSmall="WhenGroupIsSmall" 
+                       LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                        <telerik:RadRibbonButton  Text="النسخ الاحتياطي" Size="Large"
+                               CollapseToSmall="WhenGroupIsSmall" 
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"/>
+                       
+                      
+
+
+
+
+                    </telerik:RadCollapsiblePanel>
+                </telerik:RadRibbonGroup>
+
+
+            </telerik:RadRibbonTab>
+        </telerik:RadRibbonView>
+    </Grid>
+</UserControl>

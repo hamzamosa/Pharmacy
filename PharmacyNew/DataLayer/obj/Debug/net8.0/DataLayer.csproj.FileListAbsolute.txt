@@ -1,0 +1,14 @@
+D:\PharmacyNew\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\PharmacyNew\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\PharmacyNew\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\PharmacyNew\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\PharmacyNew\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

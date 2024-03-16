@@ -1,0 +1,15 @@
+D:\PharmacyNew\BL1\bin\Debug\net8.0\BL1.deps.json
+D:\PharmacyNew\BL1\bin\Debug\net8.0\BL1.dll
+D:\PharmacyNew\BL1\bin\Debug\net8.0\BL1.pdb
+D:\PharmacyNew\BL1\bin\Debug\net8.0\DataLayer.dll
+D:\PharmacyNew\BL1\bin\Debug\net8.0\DataLayer.pdb
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.csproj.AssemblyReference.cache
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.AssemblyInfoInputs.cache
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.AssemblyInfo.cs
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.csproj.CoreCompileInputs.cache
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.csproj.Up2Date
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.dll
+D:\PharmacyNew\BL1\obj\Debug\net8.0\refint\BL1.dll
+D:\PharmacyNew\BL1\obj\Debug\net8.0\BL1.pdb
+D:\PharmacyNew\BL1\obj\Debug\net8.0\ref\BL1.dll

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Content\Views\CompaniesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ribbon\Dialog\AddCompanyViewDilog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ribbon\Dialog\LoginDialogView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ribbon\Views\RibbonView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SellWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Content\Views\CompaniesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ribbon\Dialog\AddCompanyViewDilog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ribbon\Dialog\LoginDialogView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ribbon\Views\RibbonView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SellWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

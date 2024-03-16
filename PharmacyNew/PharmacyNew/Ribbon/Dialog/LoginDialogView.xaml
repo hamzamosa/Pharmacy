@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="PharmacyNew.Ribbon.Dialog.LoginDialogView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PharmacyNew.Ribbon.Dialog"
+              xmlns:prism="http://prismlibrary.com/"
+              xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+               prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <prism:Dialog.WindowStyle>
+        <Style TargetType="Window">
+            <Setter Property="Height" Value="410"/>
+
+            <Setter Property="Width" Value="350"/>
+            <Setter Property="Icon" Value="/PharmacyNew;component/Ribbon/images/PicNO.png"/>
+
+            <Setter Property="ResizeMode" Value="NoResize"/>
+            <Setter Property="prism:Dialog.WindowStartupLocation" Value="CenterScreen"/>
+
+        </Style>
+
+    </prism:Dialog.WindowStyle>
+    <Canvas>
+        <telerik:Label Content="Username" FontSize="12" Canvas.Left="10" Canvas.Top="79" Width="80" HorizontalAlignment="Left" VerticalAlignment="Top" Height="26"/>
+        <telerik:RadWatermarkTextBox Canvas.Left="15"   FontSize="12"  Text="{Binding userName}" Canvas.Top="105"  Width="300" HorizontalAlignment="Left" Height="38" VerticalAlignment="Top"/>
+        <telerik:Label Content="Password"  FontSize="12" Canvas.Left="15" Canvas.Top="166" Width="70" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <telerik:RadPasswordBox x:Name="passwordBox" Text="{Binding passWord}" Canvas.Left="15" FontSize="12"   Canvas.Top="194"  Width="300" Height="38" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+        </telerik:RadPasswordBox>
+        <CheckBox IsChecked="{Binding AutoSave}" Content="Save login" FontSize="12" Canvas.Left="16" Canvas.Top="237" HorizontalAlignment="Center" Height="31" VerticalAlignment="Top"/>
+        <telerik:RadHyperlinkButton   Command="{Binding ForgotPassordCommand}" Content="forgot my password" FontSize="12" Canvas.Left="190" Canvas.Top="237" HorizontalAlignment="Center" VerticalAlignment="Top" Width="140" Height="28"/>
+        <telerik:RadButton Command="{Binding LoginCommand}"  CommandParameter="{Binding ElementName=passwordBox}" Content="Login" FontSize="12" Height="38" Canvas.Left="21" Canvas.Top="302" Width="140" RenderTransformOrigin="0.067,0.237" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <telerik:RadButton Command="{Binding cancelCommand}"  Content="Cancel" FontSize="12" Height="38" Canvas.Left="175" Canvas.Top="302" Width="140" RenderTransformOrigin="0.067,0.237" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Image Source="/PharmacyNew;component/Ribbon/images/PicNO.png" Height="35" Canvas.Left="15" Canvas.Top="5" Width="35"/>
+        <telerik:Label Content="Login" FontSize="20" FontWeight="Bold" Canvas.Left="140" Canvas.Top="16" Width="70" Height="44" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+    </Canvas>
+</UserControl>
