@@ -7,10 +7,31 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Content\Categories\Views\CategoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Content\Views\CompaniesView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Content\Views\ConformationDialogToremveSupplierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Content\Views\ConformationDialogTpremveCompanyView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Content\Views\SupplierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Content\Views\UpdateCompanyNameView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Content\Views\UpdateSupplierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Ribbon\Dialog\AddCompanyViewDilog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ribbon\Dialog\AddSupllierView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Ribbon\Dialog\LoginDialogView.xaml.cs">
@@ -24,10 +45,31 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Content\Categories\Views\CategoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Content\Views\CompaniesView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Content\Views\ConformationDialogToremveSupplierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Content\Views\ConformationDialogTpremveCompanyView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Content\Views\SupplierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Content\Views\UpdateCompanyNameView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Content\Views\UpdateSupplierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Ribbon\Dialog\AddCompanyViewDilog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ribbon\Dialog\AddSupllierView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Ribbon\Dialog\LoginDialogView.xaml">

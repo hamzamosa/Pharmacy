@@ -1,106 +1,222 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PharmacyNew\\",
+  "WorkspaceRootPath": "D:\\Pharmacy\\PharmacyNew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\views\\ribbonview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\views\\ribbonview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|d:\\pharmacy\\pharmacynew\\apis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacynew\\pharmacynew\\ribbon\\dialog\\addcompanyviewdilogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\addcompanyviewdilogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\logindialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\logindialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\viewmodels\\ribbonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\viewmodels\\ribbonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacynew\\pharmacynew\\events\\tokenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\events\\tokenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacynew\\pharmacynew\\content\\viewmodels\\companiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\companiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\content\\contentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\contentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|D:\\PharmacyNew\\bl1\\cmpanies\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|D:\\Pharmacy\\PharmacyNew\\bl1\\cmpanies\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|solutionrelative:bl1\\cmpanies\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\PharmacyNew\\apis\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\Pharmacy\\PharmacyNew\\apis\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\PharmacyNew\\apis\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|D:\\Pharmacy\\PharmacyNew\\bl1\\categories\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|solutionrelative:bl1\\categories\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacynew\\pharmacynew\\ribbon\\dialog\\addcompanyviewdilog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\addcompanyviewdilog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\Pharmacy\\PharmacyNew\\apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\logindialogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\logindialogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\models\\supliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\models\\supliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacynew\\pharmacynew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\content\\views\\companiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\companiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\views\\sellwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\views\\sellwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacynew\\pharmacynew\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\PharmacyNew\\datalayer\\models\\tbcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tbcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\PharmacyNew\\datalayer\\models\\tbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\content\\models\\companiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\models\\companiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\models\\companiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\content\\views\\companiesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\companiesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\views\\ribbonview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\views\\ribbonview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\PharmacyNew\\apis\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\contentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\contentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\categories\\views\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\categories\\views\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\companiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\companiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\categories\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\categories\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\models\\pharmacycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\pharmacycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\models\\tbcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tbcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\models\\tb_suplliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tb_suplliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\models\\tbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\viewmodels\\supplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\supplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\viewmodels\\companiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\companiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\viewmodels\\conformationdialogtpremvecompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\conformationdialogtpremvecompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\viewmodels\\conformationdialogtoremvesupplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\conformationdialogtoremvesupplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\events\\tokenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\events\\tokenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\conformationdialogtoremvesupplierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\conformationdialogtoremvesupplierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\conformationdialogtpremvecompanyview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\conformationdialogtpremvecompanyview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\supplierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\supplierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\viewmodels\\updatesupplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\updatesupplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\updatesupplierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\updatesupplierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\viewmodels\\updatecompanynameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\viewmodels\\updatecompanynameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\addsupllierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\addsupllierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\updatecompanynameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\updatecompanynameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|d:\\pharmacy\\pharmacynew\\pharmacynew\\ribbon\\dialog\\addcompanyviewdilogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\addcompanyviewdilogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\addsupllierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\addsupllierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\addcompanyviewdilog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\addcompanyviewdilog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\viewmodels\\ribbonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\viewmodels\\ribbonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|D:\\Pharmacy\\PharmacyNew\\bl1\\suppliers\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86F86C5-1944-4651-98A9-EC75E367C0B1}|BL1\\BL1.csproj|solutionrelative:bl1\\suppliers\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\Pharmacy\\PharmacyNew\\apis\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\Pharmacy\\PharmacyNew\\apis\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|D:\\Pharmacy\\PharmacyNew\\apis\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2ED16B4-1DA7-4B58-84B1-89C35984C014}|Apis\\Apis.csproj|solutionrelative:apis\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\views\\ribbonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\views\\sellwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\views\\sellwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\models\\tbcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tbcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\migrations\\20240317001444_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240317001444_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\migrations\\pharmacycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\pharmacycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\migrations\\20240316235637_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240316235637_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\datalayer\\migrations\\20240314191559_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240314191559_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\logindialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\logindialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\logindialogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\logindialogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\dialog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\dialog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\content\\views\\companiesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\content\\views\\companiesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\views\\ribbonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\views\\ribbonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\PharmacyNew\\pharmacynew\\ribbon\\ribbonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|D:\\Pharmacy\\PharmacyNew\\pharmacynew\\ribbon\\ribbonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8096EA0E-6953-4DD3-A5E8-2F5F7613849C}|PharmacyNew\\PharmacyNew.csproj|solutionrelative:pharmacynew\\ribbon\\ribbonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240317001232_fd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:DataLayer\\Migrations\\20240317001232_fd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240319002445_tb_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD451F68-1E26-468F-9CC2-C761CE3811CD}|DataLayer\\DataLayer.csproj|solutionrelative:DataLayer\\Migrations\\20240319002445_tb_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,313 +226,631 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RibbonViewModel.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFcAAAAdAAAA",
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\BL1\\Categories\\Categories.cs",
+              "RelativeDocumentMoniker": "BL1\\Categories\\Categories.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\BL1\\Categories\\Categories.cs",
+              "RelativeToolTip": "BL1\\Categories\\Categories.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:24:43.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T00:37:57.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CompaniesViewModel.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
-              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Apis\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Apis\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:24:07.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TokenEvent.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Events\\TokenEvent.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Events\\TokenEvent.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Events\\TokenEvent.cs",
-              "RelativeToolTip": "PharmacyNew\\Events\\TokenEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:42:00.743Z",
+              "WhenOpened": "2024-03-19T00:36:27.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CompaniesController.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\Apis\\Controllers\\CompaniesController.cs",
-              "RelativeDocumentMoniker": "Apis\\Controllers\\CompaniesController.cs",
-              "ToolTip": "D:\\PharmacyNew\\Apis\\Controllers\\CompaniesController.cs",
-              "RelativeToolTip": "Apis\\Controllers\\CompaniesController.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAwKEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:48:37.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDialogViewModel.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAnwEgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T21:14:22.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDialogView.xaml",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-14T21:14:12.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ContentModule.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Content\\ContentModule.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ContentModule.cs",
               "RelativeDocumentMoniker": "PharmacyNew\\Content\\ContentModule.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Content\\ContentModule.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ContentModule.cs",
               "RelativeToolTip": "PharmacyNew\\Content\\ContentModule.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADgvxgAAABWAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwCMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:22:33.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RibbonView.xaml",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-14T19:59:57.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:22:33.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\Apis\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Apis\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\PharmacyNew\\Apis\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Apis\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAIAAAA",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\App.xaml.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\App.xaml.cs",
+              "RelativeToolTip": "PharmacyNew\\App.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACQAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T21:11:48.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T19:54:26.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Companies.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\BL1\\Cmpanies\\Companies.cs",
-              "RelativeDocumentMoniker": "BL1\\Cmpanies\\Companies.cs",
-              "ToolTip": "D:\\PharmacyNew\\BL1\\Cmpanies\\Companies.cs",
-              "RelativeToolTip": "BL1\\Cmpanies\\Companies.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:29:40.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\App.xaml.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\App.xaml.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\App.xaml.cs",
-              "RelativeToolTip": "PharmacyNew\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T19:54:26.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\App.xaml",
-              "RelativeDocumentMoniker": "PharmacyNew\\App.xaml",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\App.xaml",
-              "RelativeToolTip": "PharmacyNew\\App.xaml",
+              "Title": "RibbonView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-15T20:59:57.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T19:59:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Apis\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Apis\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:48:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompaniesModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Models\\CompaniesModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Models\\CompaniesModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Models\\CompaniesModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\Models\\CompaniesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:29:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuplierModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Models\\SuplierModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Models\\SuplierModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Models\\SuplierModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\Models\\SuplierModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:07:59.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Companies.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\BL1\\Cmpanies\\Companies.cs",
+              "RelativeDocumentMoniker": "BL1\\Cmpanies\\Companies.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\BL1\\Cmpanies\\Companies.cs",
+              "RelativeToolTip": "BL1\\Cmpanies\\Companies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:29:40.94Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AddCompanyViewDilog.xaml",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
+              "Title": "CategoryView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Categories\\Views\\CategoryView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Categories\\Views\\CategoryView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Categories\\Views\\CategoryView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Categories\\Views\\CategoryView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-15T21:10:01.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T00:31:06.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\Apis\\Program.cs",
+              "RelativeDocumentMoniker": "Apis\\Program.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\Apis\\Program.cs",
+              "RelativeToolTip": "Apis\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:59:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompaniesView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\CompaniesView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\CompaniesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T20:23:50.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Categories\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Categories\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Categories\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\Categories\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:31:21.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240319002445_tb_category.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240319002445_tb_category.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240319002445_tb_category.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240319002445_tb_category.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240319002445_tb_category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:24:46.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CompaniesView.xaml",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml",
-              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\CompaniesView.xaml",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml",
-              "RelativeToolTip": "PharmacyNew\\Content\\Views\\CompaniesView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-14T20:23:50.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SellWindow.xaml",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Views\\SellWindow.xaml",
-              "RelativeDocumentMoniker": "PharmacyNew\\Views\\SellWindow.xaml",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Views\\SellWindow.xaml",
-              "RelativeToolTip": "PharmacyNew\\Views\\SellWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-14T19:56:14.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Helper\\Helper.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Helper\\Helper.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Helper\\Helper.cs",
-              "RelativeToolTip": "PharmacyNew\\Helper\\Helper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Title": "TbCategories.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\TbCategories.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\TbCategories.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\TbCategories.cs",
+              "RelativeToolTip": "DataLayer\\Models\\TbCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:38:49.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TbUser.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\DataLayer\\Models\\TbUser.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Models\\TbUser.cs",
-              "ToolTip": "D:\\PharmacyNew\\DataLayer\\Models\\TbUser.cs",
-              "RelativeToolTip": "DataLayer\\Models\\TbUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T21:26:17.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CompaniesModel.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Content\\Models\\CompaniesModel.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Models\\CompaniesModel.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Content\\Models\\CompaniesModel.cs",
-              "RelativeToolTip": "PharmacyNew\\Content\\Models\\CompaniesModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:29:34.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CompaniesView.xaml.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
-              "RelativeToolTip": "PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:25:03.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TbCompany.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\DataLayer\\Models\\TbCompany.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Models\\TbCompany.cs",
-              "ToolTip": "D:\\PharmacyNew\\DataLayer\\Models\\TbCompany.cs",
-              "RelativeToolTip": "DataLayer\\Models\\TbCompany.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:29:54.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T00:22:26.754Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Title": "SupplierViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\SupplierViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\SupplierViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\SupplierViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\SupplierViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T23:12:57.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T20:30:18.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateCompanyNameViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\UpdateCompanyNameViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\UpdateCompanyNameViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\UpdateCompanyNameViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\UpdateCompanyNameViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:53:15.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddSupllierViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddSupllierViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\AddSupllierViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddSupllierViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\AddSupllierViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA2wCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:45:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateCompanyNameView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\UpdateCompanyNameView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\UpdateCompanyNameView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\UpdateCompanyNameView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\UpdateCompanyNameView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-16T20:52:49.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddCompanyViewDilog.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-15T21:10:01.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConformationDialogToremveSupplierViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\ConformationDialogToremveSupplierViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\ConformationDialogToremveSupplierViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\ConformationDialogToremveSupplierViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\ConformationDialogToremveSupplierViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:37:25.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenEvent.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Events\\TokenEvent.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Events\\TokenEvent.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Events\\TokenEvent.cs",
+              "RelativeToolTip": "PharmacyNew\\Events\\TokenEvent.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:42:00.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompaniesViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\CompaniesViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:24:07.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\Apis\\Models\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Apis\\Models\\ApiResponse.cs",
-              "ToolTip": "D:\\PharmacyNew\\Apis\\Models\\ApiResponse.cs",
-              "RelativeToolTip": "Apis\\Models\\ApiResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:50:34.888Z",
-              "EditorCaption": ""
+              "Title": "ConformationDialogToremveSupplierView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\ConformationDialogToremveSupplierView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\ConformationDialogToremveSupplierView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\ConformationDialogToremveSupplierView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\ConformationDialogToremveSupplierView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T23:37:14.717Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "RibbonView.xaml.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
-              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
-              "RelativeToolTip": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T21:25:44.938Z",
-              "EditorCaption": ""
+              "Title": "ConformationDialogTpremveCompanyView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\ConformationDialogTpremveCompanyView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\ConformationDialogTpremveCompanyView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\ConformationDialogTpremveCompanyView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\ConformationDialogTpremveCompanyView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-16T20:08:43.039Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "SupplierView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\SupplierView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\SupplierView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\SupplierView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\SupplierView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T20:29:52.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateSupplierViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\UpdateSupplierViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\UpdateSupplierViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\UpdateSupplierViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\UpdateSupplierViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:45:40.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Apis\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Apis\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:11:48.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TbUser.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\TbUser.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\TbUser.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\TbUser.cs",
+              "RelativeToolTip": "DataLayer\\Models\\TbUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:26:17.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tb_suplliers.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\tb_suplliers.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\tb_suplliers.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\tb_suplliers.cs",
+              "RelativeToolTip": "DataLayer\\Models\\tb_suplliers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:13:12.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PharmacyContext.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\PharmacyContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\PharmacyContext.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\PharmacyContext.cs",
+              "RelativeToolTip": "DataLayer\\Models\\PharmacyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:57:25.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConformationDialogTpremveCompanyViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\ConformationDialogTpremveCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\ViewModels\\ConformationDialogTpremveCompanyViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\ViewModels\\ConformationDialogTpremveCompanyViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\ViewModels\\ConformationDialogTpremveCompanyViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:08:55.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SellWindow.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Views\\SellWindow.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Views\\SellWindow.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Views\\SellWindow.xaml",
+              "RelativeToolTip": "PharmacyNew\\Views\\SellWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T19:56:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateSupplierView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\UpdateSupplierView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\UpdateSupplierView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\UpdateSupplierView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\UpdateSupplierView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T22:45:20.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RibbonViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\ViewModels\\RibbonViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:24:43.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Apis\\Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\Apis\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Apis\\Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwv8YAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:59:33.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginDialogView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T21:14:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddSupllierView.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddSupllierView.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\AddSupllierView.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddSupllierView.xaml",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\AddSupllierView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T23:45:11.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\BL1\\Suppliers\\Suppliers.cs",
+              "RelativeDocumentMoniker": "BL1\\Suppliers\\Suppliers.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\BL1\\Suppliers\\Suppliers.cs",
+              "RelativeToolTip": "BL1\\Suppliers\\Suppliers.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:56:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\Apis\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Apis\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\Apis\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Apis\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:50:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PharmacyContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\PharmacyContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\PharmacyContextModelSnapshot.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\PharmacyContextModelSnapshot.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\PharmacyContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:57:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TbCompany.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\TbCompany.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\TbCompany.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Models\\TbCompany.cs",
+              "RelativeToolTip": "DataLayer\\Models\\TbCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:29:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\App.xaml",
+              "RelativeDocumentMoniker": "PharmacyNew\\App.xaml",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\App.xaml",
+              "RelativeToolTip": "PharmacyNew\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-15T20:59:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240317001444_v.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240317001444_v.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240317001444_v.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240317001444_v.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240317001444_v.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:14:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240317001232_fd.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240317001232_fd.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240317001232_fd.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240317001232_fd.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240317001232_fd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:12:32.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginDialogViewModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\LoginDialogViewModel.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAD4v3IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:14:22.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240316235637_ss.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240316235637_ss.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240316235637_ss.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240316235637_ss.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240316235637_ss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:56:37.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240314191559_first.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240314191559_first.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240314191559_first.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\Migrations\\20240314191559_first.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240314191559_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:57:39.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Helper\\Helper.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Helper\\Helper.cs",
+              "RelativeToolTip": "PharmacyNew\\Helper\\Helper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:38:49.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CompaniesView.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
+              "RelativeToolTip": "PharmacyNew\\Content\\Views\\CompaniesView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:25:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:12:57.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RibbonView.xaml.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
+              "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
+              "RelativeToolTip": "PharmacyNew\\Ribbon\\Views\\RibbonView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:25:44.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "RibbonModule.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\RibbonModule.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\RibbonModule.cs",
               "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\RibbonModule.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\RibbonModule.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\RibbonModule.cs",
               "RelativeToolTip": "PharmacyNew\\Ribbon\\RibbonModule.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T19:53:57.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T19:53:57.524Z"
             }
           ]
         }
@@ -441,13 +875,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 30,
               "Title": "AddCompanyViewDilogModel.cs",
-              "DocumentMoniker": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilogModel.cs",
+              "DocumentMoniker": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilogModel.cs",
               "RelativeDocumentMoniker": "PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilogModel.cs",
-              "ToolTip": "D:\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilogModel.cs",
+              "ToolTip": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilogModel.cs",
               "RelativeToolTip": "PharmacyNew\\Ribbon\\Dialog\\AddCompanyViewDilogModel.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCMAAAApAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T21:10:09.795Z",
               "EditorCaption": ""

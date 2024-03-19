@@ -1,4 +1,5 @@
-﻿using PharmacyNew.Content.Views;
+﻿using PharmacyNew.Content.Categories.Views;
+using PharmacyNew.Content.Views;
 using PharmacyNew.Ribbon.Views;
 using Prism.Ioc;
 using Prism.Modularity;
@@ -22,13 +23,17 @@ namespace PharmacyNew.Content
 
     public void OnInitialized(IContainerProvider containerProvider)
     {
-        _regionManager.RegisterViewWithRegion("CompaniesView", typeof(CompaniesView));
+       _regionManager.RegisterViewWithRegion("ContentReigion", typeof(CompaniesView));
+       _regionManager.RegisterViewWithRegion("ContentReigion", typeof(SupplierView));
+       _regionManager.RegisterViewWithRegion("ContentReigion", typeof(CategoryView));
 
     }
 
     public void RegisterTypes(IContainerRegistry containerRegistry)
     {
-
+            containerRegistry.RegisterForNavigation<CompaniesView>();
+            containerRegistry.RegisterForNavigation<SupplierView>();
+            containerRegistry.RegisterForNavigation<CategoryView>();
     }
    
 

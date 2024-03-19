@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PharmacyNew\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\PharmacyNew\\DataLayer\\DataLayer.csproj",
+      "projectPath": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\PharmacyNew\\DataLayer\\obj\\",
+      "outputPath": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

@@ -27,11 +27,14 @@ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding 
                         <telerik:RadRibbonButton  Text="اضافة/تعديل" Size="Large"
                               CollapseToSmall="WhenGroupIsSmall" 
 LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"  IsEnabled="{Binding isEnable}" Command="{Binding AddCompanyCommand}"  />
+                        <telerik:RadRibbonButton  Text="شركات الادوية" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
 
                     </telerik:RadCollapsiblePanel>
                 </telerik:RadRibbonGroup>
 
-                <telerik:RadRibbonGroup Header="Trade">
+                <telerik:RadRibbonGroup Header="الموردين">
 
                     <telerik:RadRibbonGroup.Variants>
                         <telerik:GroupVariant Priority="13" Variant="Medium" />
@@ -39,24 +42,14 @@ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"  IsEnabled="{Binding
                         <telerik:GroupVariant Priority="3" Variant="Collapsed" />
                     </telerik:RadRibbonGroup.Variants>
                     <telerik:RadCollapsiblePanel>
-                        <telerik:RadRibbonButton  Text="شركات الادوية" Size="Large"
-                                                     CollapseToSmall="WhenGroupIsSmall" 
-                       LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+                       
                         <telerik:RadRibbonButton  Text="الموردين" Size="Large"
                                CollapseToSmall="WhenGroupIsSmall" 
- LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
-                        <telerik:RadRibbonButton  Text="التصنيفات" Size="Large"
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}"  CommandParameter="SupplierView" />
+                        <telerik:RadRibbonButton  Text="اضافة" Size="Large"
                                CollapseToSmall="WhenGroupIsSmall" 
- LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
-                        <telerik:RadRibbonButton  Text="فاتورة المبعات" Size="Large"
-                               CollapseToSmall="WhenGroupIsSmall" 
- LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
-                        <telerik:RadRibbonButton  Text="فاتورة المشتريات" Size="Large"
-                              CollapseToSmall="WhenGroupIsSmall" 
-LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
-                        <telerik:RadRibbonButton  Text="مخزن الادوية" Size="Large"
-                              CollapseToSmall="WhenGroupIsSmall" 
-LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding OpeneSupplierDialogCommand}"  />
+                    
 
 
 
@@ -72,9 +65,9 @@ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding 
                         <telerik:GroupVariant Priority="3" Variant="Collapsed" />
                     </telerik:RadRibbonGroup.Variants>
                     <telerik:RadCollapsiblePanel>
-                        <telerik:RadRibbonButton  Text="حسابات العملاء" Size="Large"
+                        <telerik:RadRibbonButton  Text="التصنيفات" Size="Large"
                                CollapseToSmall="WhenGroupIsSmall" 
- LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
+ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}"  CommandParameter="CategoryView" />
                         <telerik:RadRibbonButton  Text="الاعدادت" Size="Large"
                                                      CollapseToSmall="WhenGroupIsSmall" 
                        LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />

@@ -1,8 +1,15 @@
 ﻿
-FD:\PharmacyNew\PharmacyNew\App.xaml;;
-FD:\PharmacyNew\PharmacyNew\Content\Views\CompaniesView.xaml;;
-FD:\PharmacyNew\PharmacyNew\Ribbon\Dialog\AddCompanyViewDilog.xaml;;
-FD:\PharmacyNew\PharmacyNew\Ribbon\Dialog\LoginDialogView.xaml;;
-FD:\PharmacyNew\PharmacyNew\Ribbon\Views\RibbonView.xaml;;
-FD:\PharmacyNew\PharmacyNew\Views\SellWindow.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\App.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Categories\Views\CategoryView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Views\CompaniesView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Views\ConformationDialogToremveSupplierView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Views\ConformationDialogTpremveCompanyView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Views\SupplierView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Views\UpdateCompanyNameView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Content\Views\UpdateSupplierView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Ribbon\Dialog\AddCompanyViewDilog.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Ribbon\Dialog\AddSupllierView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Ribbon\Dialog\LoginDialogView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Ribbon\Views\RibbonView.xaml;;
+FD:\Pharmacy\PharmacyNew\PharmacyNew\Views\SellWindow.xaml;;
 

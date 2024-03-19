@@ -17,7 +17,7 @@
         </Grid>
 
         <Grid Grid.Row="1">
-            <ContentControl prism:RegionManager.RegionName="CompaniesView" />
+            <ContentControl prism:RegionManager.RegionName="ContentReigion" />
         </Grid>
 
 

@@ -32,8 +32,8 @@ namespace PharmacyNew.Ribbon.Dialog
 
         private void AddCompanyMethod()
         {
-            var result = new DialogResult(ButtonResult.OK);
-            RequestClose?.Invoke(result);
+             var result = new DialogResult(ButtonResult.OK);
+             RequestClose?.Invoke(result);
             _eventAggregator.GetEvent<SwndNameOfCompanyFromAddDialogEvent>().Publish(companyName);
           
         }

@@ -13,6 +13,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<BL1.Cmpanies.Companies>();
 builder.Services.AddScoped<BL1.Authuntiacation.Users>();
+builder.Services.AddScoped<BL1.Suppliers.Suppliers>();
 
 builder.Services.AddDbContext<PharmacyContext>();
 

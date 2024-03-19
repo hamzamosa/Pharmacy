@@ -3,6 +3,7 @@ using PharmacyNew.Events;
 using PharmacyNew.Ribbon.Dialog;
 using Prism.Events;
 using Prism.Mvvm;
+using Prism.Regions;
 using Prism.Services.Dialogs;
 using System;
 using System.Collections.Generic;
@@ -17,15 +18,30 @@ namespace PharmacyNew.Ribbon.ViewModels
     {
         private readonly IDialogService _dialogService;
         private static IEventAggregator _eventAggregato;
-        public RibbonViewModel(IDialogService dialogService,IEventAggregator eventAggregator)
+        private static IRegionManager _regionManager;
+        public RibbonViewModel(IDialogService dialogService,IEventAggregator eventAggregator,IRegionManager regionManager)
         {
+            _regionManager = regionManager;
             _eventAggregato = eventAggregator;
             _dialogService = dialogService;
             OpenLoginScreenCommand = new Prism.Commands.DelegateCommand(ShowLoginScreen);
             AddCompanyCommand = new Prism.Commands.DelegateCommand(OpenAddCompanyDialog);
+            OpeneSupplierDialogCommand = new Prism.Commands.DelegateCommand(OpenAddSupplierDialog);
             eventAggregator.GetEvent<TokenEvent>().Subscribe(SerTokenValue);
             eventAggregator.GetEvent<SwndNameOfCompanyFromAddDialogEvent>().Subscribe(AddCompany);
             eventAggregator.GetEvent<MkaeItesmEnable>().Subscribe(SetEnableVlaue);
+
+            NavigateCommand = new Prism.Commands.DelegateCommand<string>(Navaigation);
+        }
+
+        private void OpenAddSupplierDialog()
+        {
+            _dialogService.ShowDialog("AddSupllierView");
+        }
+
+        private void Navaigation(string uri)
+        {
+            _regionManager.RequestNavigate("ContentReigion", uri);
         }
 
         private void SetEnableVlaue(bool obj)
@@ -93,6 +109,10 @@ namespace PharmacyNew.Ribbon.ViewModels
 
         public Prism.Commands.DelegateCommand OpenLoginScreenCommand { get; }
         public Prism.Commands.DelegateCommand AddCompanyCommand { get; }
+        public Prism.Commands.DelegateCommand OpeneSupplierDialogCommand { get; }
+        public Prism.Commands.DelegateCommand<string> NavigateCommand { get; }
+
+
 
     }
 }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BL1
-build_property.ProjectDir = D:\PharmacyNew\BL1\
+build_property.ProjectDir = D:\Pharmacy\PharmacyNew\BL1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

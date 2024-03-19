@@ -1,4 +1,5 @@
 ﻿using PharmacyNew.Content.Models;
+using Prism.Commands;
 using Prism.Events;
 using System;
 using System.Collections.Generic;
@@ -22,5 +23,33 @@ namespace PharmacyNew.Events
     public class MkaeItesmEnable : PubSubEvent<bool>
     {
     }
+
+    public class ConfirmEvent : PubSubEvent<bool>
+    {
+    }
+    public class ConfirmEventFromRemoveSupplier : PubSubEvent<bool>
+    {
+    }
+
+    public class SendCompanyNameEVENT : PubSubEvent<String>
+    {
+    }
+
+    public class SendCompanyNameeventFromUpdate : PubSubEvent<String>
+    {
+    }
+    public class SendDataOfSuppliers : PubSubEvent<(string supplierName, string phone)>
+    {
+    }
+
+    public class SendDataOfSuppliersToUpdateDialog : PubSubEvent<(string supplierName, string phone)>
+    {
+    }
+
+    public class SendDataOfSuppliersFromUpdateDialog : PubSubEvent<(string supplierName, string phone)>
+    {
+        
+    }
+
 
 }

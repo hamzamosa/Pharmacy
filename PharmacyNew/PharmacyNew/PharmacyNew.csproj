@@ -9,6 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Content\images\cancel.png" />
+    <None Remove="Content\images\pencil.png" />
     <None Remove="Ribbon\images\PicNO.png" />
   </ItemGroup>
 
@@ -32,6 +34,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Content\images\cancel.png" />
+    <Resource Include="Content\images\pencil.png" />
     <Resource Include="Ribbon\images\PicNO.png" />
   </ItemGroup>
 

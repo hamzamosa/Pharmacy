@@ -10641,11 +10641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PharmacyNew\\PharmacyNew\\PharmacyNew.csproj",
+      "projectUniqueName": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\PharmacyNew.csproj",
       "projectName": "PharmacyNew",
-      "projectPath": "D:\\PharmacyNew\\PharmacyNew\\PharmacyNew.csproj",
+      "projectPath": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\PharmacyNew.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\PharmacyNew\\PharmacyNew\\obj\\",
+      "outputPath": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
@@ -10672,11 +10672,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\PharmacyNew\\Apis\\Apis.csproj": {
-              "projectPath": "D:\\PharmacyNew\\Apis\\Apis.csproj"
+            "D:\\Pharmacy\\PharmacyNew\\Apis\\Apis.csproj": {
+              "projectPath": "D:\\Pharmacy\\PharmacyNew\\Apis\\Apis.csproj"
             },
-            "D:\\PharmacyNew\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\PharmacyNew\\DataLayer\\DataLayer.csproj"
+            "D:\\Pharmacy\\PharmacyNew\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\DataLayer.csproj"
             }
           }
         }

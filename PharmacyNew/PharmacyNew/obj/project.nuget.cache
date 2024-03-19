@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bEJXBHCVu6AA2kjTUgIFPMMBptceNWuCnbiSjyBZA3BO6oh9G6FlktMhJ7rF/khmoIlyTW6bhASvfszIWblyHw==",
+  "dgSpecHash": "jaGpCvagHa5owLX0DE98hDIujeRhJUqkq7SxpSkV3IwrvZp9AukQ59UdDwkvMbHjug/TOgYSzG9NFMS6LIXqgw==",
   "success": true,
-  "projectFilePath": "D:\\PharmacyNew\\PharmacyNew\\PharmacyNew.csproj",
+  "projectFilePath": "D:\\Pharmacy\\PharmacyNew\\PharmacyNew\\PharmacyNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

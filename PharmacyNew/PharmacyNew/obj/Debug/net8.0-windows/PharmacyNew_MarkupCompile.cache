@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\
 PharmacyNew
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\PharmacyNew\PharmacyNew\App.xaml
-5735709219
+D:\Pharmacy\PharmacyNew\PharmacyNew\App.xaml
+121792133634
 
-19-774360594
-460247621184
-Content\Views\CompaniesView.xaml;Ribbon\Dialog\AddCompanyViewDilog.xaml;Ribbon\Dialog\LoginDialogView.xaml;Ribbon\Views\RibbonView.xaml;Views\SellWindow.xaml;
+34-450329747
+460-1265955800
+Content\Categories\Views\CategoryView.xaml;Content\Views\CompaniesView.xaml;Content\Views\ConformationDialogToremveSupplierView.xaml;Content\Views\ConformationDialogTpremveCompanyView.xaml;Content\Views\SupplierView.xaml;Content\Views\UpdateCompanyNameView.xaml;Content\Views\UpdateSupplierView.xaml;Ribbon\Dialog\AddCompanyViewDilog.xaml;Ribbon\Dialog\AddSupllierView.xaml;Ribbon\Dialog\LoginDialogView.xaml;Ribbon\Views\RibbonView.xaml;Views\SellWindow.xaml;
 
 False
 
