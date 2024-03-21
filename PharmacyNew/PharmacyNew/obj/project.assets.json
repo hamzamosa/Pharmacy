@@ -10621,6 +10621,7 @@
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "Apis >= 1.0.0",
+      "BL1 >= 1.0.0",
       "DataLayer >= 1.0.0",
       "Microsoft.AspNet.WebApi.Client >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.3",
@@ -10674,6 +10675,9 @@
           "projectReferences": {
             "D:\\Pharmacy\\PharmacyNew\\Apis\\Apis.csproj": {
               "projectPath": "D:\\Pharmacy\\PharmacyNew\\Apis\\Apis.csproj"
+            },
+            "D:\\Pharmacy\\PharmacyNew\\BL1\\BL1.csproj": {
+              "projectPath": "D:\\Pharmacy\\PharmacyNew\\BL1\\BL1.csproj"
             },
             "D:\\Pharmacy\\PharmacyNew\\DataLayer\\DataLayer.csproj": {
               "projectPath": "D:\\Pharmacy\\PharmacyNew\\DataLayer\\DataLayer.csproj"

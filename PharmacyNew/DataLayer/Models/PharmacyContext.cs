@@ -20,6 +20,7 @@ public partial class PharmacyContext : DbContext
     public virtual DbSet<TbUser> TbUsers { get; set; }
     public virtual DbSet<tb_suplliers> tbsuplliers { get; set; }
     public virtual DbSet<TbCategories> TbCategory { get; set; }
+    public virtual DbSet<TbStore> TbStories { get; set; }
   
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

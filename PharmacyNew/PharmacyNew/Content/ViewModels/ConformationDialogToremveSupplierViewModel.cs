@@ -28,7 +28,8 @@ namespace PharmacyNew.Content.ViewModels
 
         private void CloseDialog()
         {
-            
+            var result = new DialogResult(ButtonResult.Cancel);
+            RequestClose?.Invoke(result);
         }
 
         private void ConfirmRemove()

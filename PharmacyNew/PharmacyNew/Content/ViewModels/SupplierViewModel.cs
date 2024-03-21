@@ -153,9 +153,14 @@ namespace PharmacyNew.Content.ViewModels
             
             AddSuplier(tuple.supplierName,  tuple.phone);
 
+            var lastCategory = Suppliers.OrderByDescending(c => c.Id).FirstOrDefault();
+            int lastCategoryId = lastCategory.Id;
+           
+
             SuplierModel model = new SuplierModel();
             model.SupplierName=tuple.supplierName;
             model.Phone=tuple.phone;
+            model.Id = lastCategoryId + 1;
 
             Suppliers.Add(model);
         }

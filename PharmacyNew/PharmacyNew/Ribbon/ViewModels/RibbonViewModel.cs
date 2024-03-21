@@ -27,11 +27,23 @@ namespace PharmacyNew.Ribbon.ViewModels
             OpenLoginScreenCommand = new Prism.Commands.DelegateCommand(ShowLoginScreen);
             AddCompanyCommand = new Prism.Commands.DelegateCommand(OpenAddCompanyDialog);
             OpeneSupplierDialogCommand = new Prism.Commands.DelegateCommand(OpenAddSupplierDialog);
+            AddCategoryCommand = new Prism.Commands.DelegateCommand(OpneCategoryDialog);
+            OpenAddMedicanScreenCommand = new Prism.Commands.DelegateCommand(OpenMedicanScreen);
             eventAggregator.GetEvent<TokenEvent>().Subscribe(SerTokenValue);
             eventAggregator.GetEvent<SwndNameOfCompanyFromAddDialogEvent>().Subscribe(AddCompany);
             eventAggregator.GetEvent<MkaeItesmEnable>().Subscribe(SetEnableVlaue);
 
             NavigateCommand = new Prism.Commands.DelegateCommand<string>(Navaigation);
+        }
+
+        private void OpenMedicanScreen()
+        {
+            _dialogService.ShowDialog("AddMedicanView");
+        }
+
+        private void OpneCategoryDialog()
+        {
+            _dialogService.ShowDialog("AddCategoryViewDialog");
         }
 
         private void OpenAddSupplierDialog()
@@ -54,6 +66,8 @@ namespace PharmacyNew.Ribbon.ViewModels
             
 
             AddNewCompany(CompanyName,token);
+
+
         }
 
         private static string token;
@@ -111,6 +125,8 @@ namespace PharmacyNew.Ribbon.ViewModels
         public Prism.Commands.DelegateCommand AddCompanyCommand { get; }
         public Prism.Commands.DelegateCommand OpeneSupplierDialogCommand { get; }
         public Prism.Commands.DelegateCommand<string> NavigateCommand { get; }
+        public Prism.Commands.DelegateCommand AddCategoryCommand { get; }
+        public Prism.Commands.DelegateCommand OpenAddMedicanScreenCommand { get; }
 
 
 

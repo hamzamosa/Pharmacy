@@ -17,10 +17,11 @@ namespace BL1.Categories
             _context = context;
 
         }
-        public void Add(TbCategories table)
+        public int Add(TbCategories table)
         {
             _context.TbCategory.Add(table);
             _context.SaveChanges();
+            return  table.Id;
         }
 
         public void Delete(int id)

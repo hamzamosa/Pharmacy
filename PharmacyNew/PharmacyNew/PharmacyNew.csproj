@@ -30,6 +30,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Apis\Apis.csproj" />
+    <ProjectReference Include="..\BL1\BL1.csproj" />
     <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
   </ItemGroup>
 

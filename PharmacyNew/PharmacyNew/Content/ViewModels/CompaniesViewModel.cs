@@ -159,6 +159,9 @@ namespace PharmacyNew.Content.ViewModels
 
         private void UpdateCompanies(CompaniesModel obj)
         {
+            var lastCategory = Companies.OrderByDescending(c => c.Id).FirstOrDefault();
+            int lastCategoryId = lastCategory.Id;
+            obj.Id = lastCategoryId+1;
             Companies.Add(obj);
            
         }
@@ -190,6 +193,8 @@ namespace PharmacyNew.Content.ViewModels
                 if (response.IsSuccessStatusCode)
                 {
                     myrespons = await response.Content.ReadAsAsync<Models.ApiResponse>();
+
+                  
 
                    foreach(var com in myrespons.Data) 
                     {

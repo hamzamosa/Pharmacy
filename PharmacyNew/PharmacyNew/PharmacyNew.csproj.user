@@ -7,6 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Content\Categories\Dialog\AddCategoryViewDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Content\Categories\Dialog\ConformationDialogView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Content\Categories\Dialog\UpdateDialogView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Content\Categories\Views\CategoryView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -31,6 +40,9 @@
     <Compile Update="Ribbon\Dialog\AddCompanyViewDilog.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Ribbon\Dialog\AddMedicanView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Ribbon\Dialog\AddSupllierView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -45,6 +57,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Content\Categories\Dialog\AddCategoryViewDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Content\Categories\Dialog\ConformationDialogView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Content\Categories\Dialog\UpdateDialogView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Content\Categories\Views\CategoryView.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -67,6 +88,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Ribbon\Dialog\AddCompanyViewDilog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ribbon\Dialog\AddMedicanView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Ribbon\Dialog\AddSupllierView.xaml">

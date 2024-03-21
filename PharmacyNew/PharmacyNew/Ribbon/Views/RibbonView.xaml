@@ -10,7 +10,7 @@
     <Grid>
        
         <telerik:RadRibbonView>
-            <telerik:RadRibbonTab Header="ملف" >
+            <telerik:RadRibbonTab Header="الادوية" >
 
                 <telerik:RadRibbonGroup Header="شركات الادوية">
 
@@ -28,6 +28,45 @@ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding 
                               CollapseToSmall="WhenGroupIsSmall" 
 LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"  IsEnabled="{Binding isEnable}" Command="{Binding AddCompanyCommand}"  />
                         <telerik:RadRibbonButton  Text="شركات الادوية" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+
+                    </telerik:RadCollapsiblePanel>
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="مخزن الادوية">
+
+                    <telerik:RadRibbonGroup.Variants>
+                        <telerik:GroupVariant Priority="13" Variant="Medium" />
+                        <telerik:GroupVariant Priority="8" Variant="Small" />
+                        <telerik:GroupVariant Priority="3" Variant="Collapsed" />
+                    </telerik:RadRibbonGroup.Variants>
+                    <telerik:RadCollapsiblePanel>
+                        <telerik:RadRibbonButton  Text="اضافة دواء" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding OpenAddMedicanScreenCommand}"  />
+
+                        <telerik:RadRibbonButton  Text="اضافة مشابهة" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"  IsEnabled="{Binding isEnable}" Command="{Binding AddCompanyCommand}"  />
+                        <telerik:RadRibbonButton  Text="تعديل ملف" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+                        <telerik:RadRibbonButton  Text="حذف ملف" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+                        <telerik:RadRibbonButton  Text="بحث عن ملف" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+                        <telerik:RadRibbonButton  Text="الدواء النافذ" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+                        <telerik:RadRibbonButton  Text="الدواء الفاسد" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+                        <telerik:RadRibbonButton  Text="لصقات الباركود" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
+                        <telerik:RadRibbonButton  Text="اغلاق" Size="Large"
                               CollapseToSmall="WhenGroupIsSmall" 
 LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}" CommandParameter="CompaniesView" />
 
@@ -57,7 +96,7 @@ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding 
                     </telerik:RadCollapsiblePanel>
                 </telerik:RadRibbonGroup>
 
-                <telerik:RadRibbonGroup Header="شركات الادوية">
+                <telerik:RadRibbonGroup Header="التصنيفات">
 
                     <telerik:RadRibbonGroup.Variants>
                         <telerik:GroupVariant Priority="13" Variant="Medium" />
@@ -68,14 +107,11 @@ LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding 
                         <telerik:RadRibbonButton  Text="التصنيفات" Size="Large"
                                CollapseToSmall="WhenGroupIsSmall" 
  LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding NavigateCommand}"  CommandParameter="CategoryView" />
-                        <telerik:RadRibbonButton  Text="الاعدادت" Size="Large"
-                                                     CollapseToSmall="WhenGroupIsSmall" 
-                       LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"  />
-                        <telerik:RadRibbonButton  Text="النسخ الاحتياطي" Size="Large"
-                               CollapseToSmall="WhenGroupIsSmall" 
- LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding newPostionCommand}"/>
-                       
-                      
+                        <telerik:RadRibbonButton  Text="اضافة" Size="Large"
+                              CollapseToSmall="WhenGroupIsSmall" 
+LargeImage="/PharmacyNew;component/Ribbon/images/PicNO.png"   Command="{Binding AddCategoryCommand}"   />
+
+
 
 
 

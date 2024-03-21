@@ -16,11 +16,13 @@ namespace BL1.Cmpanies
             _context = context;
 
         }
-        public void Add(TbCompany table)
+        public int Add(TbCompany table)
         {
 
             _context.TbCompanies.Add(table);
             _context.SaveChanges();
+
+            return table.Id;
 
         }
 

@@ -501,3 +501,11 @@ D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Views\Confo
 D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Views\ConformationDialogToremveSupplierView.baml
 D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Views\CategoryView.g.cs
 D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Views\CategoryView.baml
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Dialog\AddCategoryViewDialog.g.cs
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Dialog\AddCategoryViewDialog.baml
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Dialog\UpdateDialogView.g.cs
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Dialog\UpdateDialogView.baml
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Dialog\ConformationDialogView.g.cs
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Content\Categories\Dialog\ConformationDialogView.baml
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Ribbon\Dialog\AddMedicanView.g.cs
+D:\Pharmacy\PharmacyNew\PharmacyNew\obj\Debug\net8.0-windows\Ribbon\Dialog\AddMedicanView.baml

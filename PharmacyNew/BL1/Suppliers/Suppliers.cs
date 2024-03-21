@@ -12,16 +12,19 @@ namespace BL1.Suppliers
     {
 
         private PharmacyContext _context;
+       
         public Suppliers(PharmacyContext context)
         {
 
             _context = context;
 
         }
-        public void Add(tb_suplliers table)
+        public int Add(tb_suplliers table)
         {
             _context.tbsuplliers.Add(table);
             _context.SaveChanges();
+
+            return table.Id;
         }
 
         public void Delete(int id)

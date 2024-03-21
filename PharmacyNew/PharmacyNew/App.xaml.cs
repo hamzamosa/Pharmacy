@@ -1,6 +1,7 @@
 ﻿using DryIoc;
 using Example;
 using PharmacyNew.Content;
+using PharmacyNew.Content.Categories.Dialog;
 using PharmacyNew.Content.ViewModels;
 using PharmacyNew.Content.Views;
 using PharmacyNew.Ribbon;
@@ -38,6 +39,10 @@ namespace PharmacyNew
             containerRegistry.RegisterDialog<UpdateCompanyNameView, UpdateCompanyNameViewModel>();
             containerRegistry.RegisterDialog<AddSupllierView, AddSupllierViewModel>();
             containerRegistry.RegisterDialog<UpdateSupplierView, UpdateSupplierViewModel>();
+            containerRegistry.RegisterDialog<AddCategoryViewDialog, AddCategoryViewDialogModel>();
+            containerRegistry.RegisterDialog<UpdateDialogView, UpdateDialogViewModel>();
+            containerRegistry.RegisterDialog<ConformationDialogView, ConformationDialogViewModel>();
+            containerRegistry.RegisterDialog<AddMedicanView, AddMedicanViewModel>();
         }
 
         protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)

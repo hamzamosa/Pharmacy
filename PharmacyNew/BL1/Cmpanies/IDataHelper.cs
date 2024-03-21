@@ -16,6 +16,6 @@ namespace BL1.Cmpanies
 
         void Edit(Table table);
         void Delete(int id);
-        void Add(Table table);
+        int Add(Table table);
     }
 }
